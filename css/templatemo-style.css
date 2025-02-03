@@ -849,6 +849,12 @@ header {
   border-color: #00aaff;
   transform: scale(1.1);
 }
+/**responsive*/
+@media screen and (max-width: 500px){
+  .h4 {
+    padding: 15px;
+  }
+}
 /*FORMACIÓN STYLE*/
 .titleformacion-section h1{
   color: white;
